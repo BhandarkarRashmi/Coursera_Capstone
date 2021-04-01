@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Coursera capstone project battle of the neighborhoods
+Coursera capstone project - "The battle of the neighborhoods"
